@@ -1,7 +1,7 @@
 {
   "qq_number": "1835391805",
   "group_number": "650985781",
-  "updated_at": "2026-06-02T02:51:10+00:00",
+  "updated_at": "2026-07-19T14:06:53+00:00",
   "skins": [
     {
       "name": "kikuの荆棘蝴蝶",
@@ -14,6 +14,12 @@
       "file": "kikuの入会赠血色百合.bdi",
       "thumb": "kikuの入会赠血色百合.bdi_py_26_light_thumb.png",
       "full": "kikuの入会赠血色百合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "kikuの白翼未寄信",
+      "file": "kikuの白翼未寄信彩底.bdi",
+      "thumb": "kikuの白翼未寄信彩底.bdi_py_26_light_thumb.png",
+      "full": "kikuの白翼未寄信彩底.bdi_py_26_light_thumb.png"
     }
   ]
 }
