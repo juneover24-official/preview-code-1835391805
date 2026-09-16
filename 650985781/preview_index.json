@@ -1,7 +1,7 @@
 {
   "qq_number": "1835391805",
   "group_number": "650985781",
-  "updated_at": "2026-07-29T16:07:24+00:00",
+  "updated_at": "2026-09-16T00:27:47+00:00",
   "skins": [
     {
       "name": "kikuの荆棘蝴蝶",
@@ -74,6 +74,13 @@
       "file": "kikuの猫咪女仆原色-转换.bds",
       "thumb": "kikuの猫咪女仆原色-转换.bds_py_26_light_thumb.png",
       "full": "kikuの猫咪女仆原色-转换.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "kikuの樱兰高校男公关部",
+      "file": "kikuの樱兰高校男公关部.bdi",
+      "thumb": "kikuの樱兰高校男公关部.bdi_py_26_light_thumb.png",
+      "full": "kikuの樱兰高校男公关部.bdi_py_26_light_thumb.png",
+      "file_id": "170eb1bdafbf9f41cb3463b41e315aad"
     }
   ]
 }
