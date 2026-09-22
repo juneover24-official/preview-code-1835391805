@@ -1,7 +1,7 @@
 {
   "qq_number": "1835391805",
   "group_number": "650985781",
-  "updated_at": "2026-09-19T21:54:27+00:00",
+  "updated_at": "2026-09-22T23:50:38+00:00",
   "skins": [
     {
       "name": "kikuの荆棘蝴蝶",
@@ -95,6 +95,13 @@
       "thumb": "kikuの40lain.bdi_py_26_light_thumb.png",
       "full": "kikuの40lain.bdi_py_26_light_thumb.png",
       "file_id": "9f1502a57cafd51833718d006c3b6380"
+    },
+    {
+      "name": "名字不建议加多余的符号",
+      "file": "kikuの猫咪女仆浅色.bds",
+      "thumb": "kikuの猫咪女仆浅色.bds_py_26_light_thumb.png",
+      "full": "kikuの猫咪女仆浅色.bds_py_26_light_thumb.png",
+      "file_id": "78388288af4d7645d8ff09363daac3db"
     }
   ]
 }
