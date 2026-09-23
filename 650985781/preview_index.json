@@ -1,7 +1,7 @@
 {
   "qq_number": "1835391805",
   "group_number": "650985781",
-  "updated_at": "2026-09-23T10:15:47+00:00",
+  "updated_at": "2026-09-23T10:17:29+00:00",
   "skins": [
     {
       "name": "kikuの荆棘蝴蝶",
@@ -109,6 +109,13 @@
       "thumb": "kikuの第五套侑子小姐.bds_py_26_light_thumb.png",
       "full": "kikuの第五套侑子小姐.bds_py_26_light_thumb.png",
       "file_id": "162b923662251cef7e0a7e9505283475"
+    },
+    {
+      "name": "kikuの第五套 侑子小姐",
+      "file": "kikuの第五套侑子小姐.bdi",
+      "thumb": "kikuの第五套侑子小姐.bdi_py_26_light_thumb.png",
+      "full": "kikuの第五套侑子小姐.bdi_py_26_light_thumb.png",
+      "file_id": "7dc06bc9fab834b266affe4301b783a1"
     }
   ]
 }
