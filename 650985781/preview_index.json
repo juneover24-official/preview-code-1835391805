@@ -1,7 +1,7 @@
 {
   "qq_number": "1835391805",
   "group_number": "650985781",
-  "updated_at": "2026-09-23T13:46:31+00:00",
+  "updated_at": "2026-11-17T10:46:53+00:00",
   "skins": [
     {
       "name": "kikuの荆棘蝴蝶",
@@ -123,6 +123,13 @@
       "thumb": "kikuの40lain.bds_py_26_light_thumb.png",
       "full": "kikuの40lain.bds_py_26_light_thumb.png",
       "file_id": "2cfb1ce17d6bf9a14a6599eb599454ad"
+    },
+    {
+      "name": "kikuの4.0第一套",
+      "file": "kikuの荆棘蝴蝶修改1.bds",
+      "thumb": "kikuの荆棘蝴蝶修改1.bds_py_26_light_thumb.png",
+      "full": "kikuの荆棘蝴蝶修改1.bds_py_26_light_thumb.png",
+      "file_id": "15043c643bffe55b0cd9d650964ae9bb"
     }
   ]
 }
