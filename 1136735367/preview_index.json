@@ -1,6 +1,7 @@
 {
   "qq_number": "1835391805",
   "group_number": "1136735367",
+  "updated_at": "2026-11-20T02:56:26+00:00",
   "skins": [
     {
       "name": "止鱼の吸血鬼骑士音效一",
@@ -8,7 +9,13 @@
       "thumb": "止鱼の吸血鬼骑士一.bds_py_26_light_thumb.png",
       "full": "止鱼の吸血鬼骑士一.bds_py_26_light_thumb.png",
       "file_id": "2797d41e838c7a48b05ac50048a0776d"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "kikuの一檐风月樱.bds",
+      "thumb": "kikuの一檐风月樱.bds_py_26_light_thumb.png",
+      "full": "kikuの一檐风月樱.bds_py_26_light_thumb.png",
+      "file_id": "40b5e36b4c46698786310567cd0b3bda"
     }
-  ],
-  "updated_at": "2026-11-20T02:55:35+00:00"
+  ]
 }
